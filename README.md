@@ -6,7 +6,7 @@
 - Latest Release: 2022.12
 
 ## !important
-The source code is a GPU version of the implicit slicing method for modeling and fabricating highly complex lattice structures, presented in [1,2]. It can be compiled with QT 5.10+MSVC 14.0, and run on the operating system Windows 10.
+The source code is a GPU-based parallel implicit slicer for modeling and fabricating highly complex lattice structures, built on top of the idea presented in [1,2]. It can be compiled with QT 5.10+MSVC 14.0, and run on the operating system Windows 10.
 
 1.Copyright
 -----------
